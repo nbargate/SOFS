@@ -2,4 +2,33 @@
 	font-family: "Helvetica";
 	size: 10em;
 	text-align: center;
+	padding: 0%;
+	margin: 0%;
+}
+
+.background {
+	background-image: url("background.jpg");
+	height: 1300px;
+	width: auto;
+	padding: 0em;
+	margin: 0em;
+}
+
+.body {
+	margin: 0%;
+	padding: 0%;
+}
+
+.head {
+	margin: 0%;
+	padding: 0%;
+}
+
+.Nav-Bar {
+	background-color: blue;
+	height: 200px;
+	width: auto;
+	position: relative;
+	top: 100em;
+
 }
